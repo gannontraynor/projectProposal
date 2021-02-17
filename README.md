@@ -20,5 +20,8 @@ This project will very easily check off multiple learning objectives of this cla
 
 ## Resources
 Spotify Developer Tools: https://developer.spotify.com/documentation/web-api/
+Python
+JavaScript
+Laptop
 
  
